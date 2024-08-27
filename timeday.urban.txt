@@ -1,0 +1,921 @@
+day	habitat	location	ID	status	time	timeday			
+7/21/2023	urban 	university	UP1	0	120	morning			
+7/21/2023	urban 	university	UP1	0	120	morning			
+7/21/2023	urban 	university	UP1	0	120	morning			
+7/21/2023	urban 	university	UP1	0	120	morning			
+7/21/2023	urban 	university	UP1	0	120	morning			
+7/21/2023	urban 	university	UP1	0	120	morning			
+7/21/2023	urban 	university	UP1	0	120	morning			
+7/21/2023	urban 	university	UP1	0	120	morning			
+7/21/2023	urban 	university	UP1	0	120	morning			
+7/21/2023	urban 	university	UP1	0	120	morning			
+7/21/2023	urban 	university 	UP2	0	120	morning			
+7/21/2023	urban 	university 	UP2	0	120	morning			
+7/21/2023	urban 	university 	UP2	0	120	morning			
+7/21/2023	urban 	university 	UP2	0	120	morning			
+7/21/2023	urban 	university 	UP2	0	120	morning			
+7/21/2023	urban 	university 	UP2	0	120	morning			
+7/21/2023	urban 	university 	UP2	0	120	morning			
+7/21/2023	urban 	university 	UP2	0	120	morning			
+7/21/2023	urban 	university 	UP2	0	120	morning			
+7/21/2023	urban 	university 	UP2	0	120	morning			
+7/21/2023	urban 	university 	UP3	1	10	morning			
+7/21/2023	urban 	university 	UP3	1	10	morning			
+7/21/2023	urban 	university 	UP3	0	120	morning			
+7/21/2023	urban 	university 	UP3	0	120	morning			
+7/21/2023	urban 	university 	UP3	0	120	morning			
+7/21/2023	urban 	university 	UP3	0	120	morning			
+7/21/2023	urban 	university 	UP3	0	120	morning			
+7/21/2023	urban 	university 	UP3	0	120	morning			
+7/21/2023	urban 	university 	UP3	0	120	morning			
+7/21/2023	urban 	university 	UP3	0	120	morning			
+7/21/2023	urban 	university 	UP4	0	120	morning			
+7/21/2023	urban 	university 	UP4	0	120	morning			
+7/21/2023	urban 	university 	UP4	0	120	morning			
+7/21/2023	urban 	university 	UP4	0	120	morning			
+7/21/2023	urban 	university 	UP4	0	120	morning			
+7/21/2023	urban 	university 	UP4	0	120	morning			
+7/21/2023	urban 	university 	UP4	0	120	morning			
+7/21/2023	urban 	university 	UP4	0	120	morning			
+7/21/2023	urban 	university 	UP4	0	120	morning			
+7/21/2023	urban 	university 	UP4	0	120	morning			
+8/1/2023	urban 	university	UP1.1	0	120	morning			
+8/1/2023	urban 	university	UP1.1	0	120	morning			
+8/1/2023	urban 	university	UP1.1	0	120	morning			
+8/1/2023	urban 	university	UP1.1	0	120	morning			
+8/1/2023	urban 	university	UP1.1	0	120	morning			
+8/1/2023	urban 	university	UP1.1	0	120	morning			
+8/1/2023	urban 	university	UP1.1	0	120	morning			
+8/1/2023	urban 	university	UP1.1	0	120	morning			
+8/1/2023	urban 	university	UP1.1	0	120	morning			
+8/1/2023	urban 	university	UP1.1	0	120	morning			
+8/1/2023	urban 	university	UP1.2	1	15	morning			
+8/1/2023	urban 	university	UP1.2	0	120	morning			
+8/1/2023	urban 	university	UP1.2	0	120	morning			
+8/1/2023	urban 	university	UP1.2	0	120	morning			
+8/1/2023	urban 	university	UP1.2	0	120	morning			
+8/1/2023	urban 	university	UP1.2	0	120	morning			
+8/1/2023	urban 	university	UP1.2	0	120	morning			
+8/1/2023	urban 	university	UP1.2	0	120	morning			
+8/1/2023	urban 	university	UP1.2	0	120	morning			
+8/1/2023	urban 	university	UP1.2	0	120	morning			
+8/1/2023	urban 	university	UP1.3	0	120	morning			
+8/1/2023	urban 	university	UP1.3	0	120	morning			
+8/1/2023	urban 	university	UP1.3	0	120	morning			
+8/1/2023	urban 	university	UP1.3	0	120	morning			
+8/1/2023	urban 	university	UP1.3	0	120	morning			
+8/1/2023	urban 	university	UP1.3	0	120	morning			
+8/1/2023	urban 	university	UP1.3	0	120	morning			
+8/1/2023	urban 	university	UP1.3	0	120	morning			
+8/1/2023	urban 	university	UP1.3	0	120	morning			
+8/1/2023	urban 	university	UP1.3	0	120	morning			
+8/1/2023	urban 	university	UP1.4	0	120	morning			
+8/1/2023	urban 	university	UP1.4	0	120	morning			
+8/1/2023	urban 	university	UP1.4	0	120	morning			
+8/1/2023	urban 	university	UP1.4	0	120	morning			
+8/1/2023	urban 	university	UP1.4	0	120	morning			
+8/1/2023	urban 	university	UP1.4	0	120	morning			
+8/1/2023	urban 	university	UP1.4	0	120	morning			
+8/1/2023	urban 	university	UP1.4	0	120	morning			
+8/1/2023	urban 	university	UP1.4	0	120	morning			
+8/1/2023	urban 	university	UP1.4	0	120	morning			
+8/1/2023	urban 	university	UP1.5	0	120	morning			
+8/1/2023	urban 	university	UP1.5	0	120	morning			
+8/1/2023	urban 	university	UP1.5	0	120	morning			
+8/1/2023	urban 	university	UP1.5	0	120	morning			
+8/1/2023	urban 	university	UP1.5	0	120	morning			
+8/1/2023	urban 	university	UP1.5	0	120	morning			
+8/1/2023	urban 	university	UP1.5	0	120	morning			
+8/1/2023	urban 	university	UP1.5	0	120	morning			
+8/1/2023	urban 	university	UP1.5	0	120	morning			
+8/1/2023	urban 	university	UP1.5	0	120	morning			
+8/3/2023	urban 	university	UP2.1	0	120	morning			
+8/3/2023	urban 	university	UP2.1	0	120	morning			
+8/3/2023	urban 	university	UP2.1	0	120	morning			
+8/3/2023	urban 	university	UP2.1	0	120	morning			
+8/3/2023	urban 	university	UP2.1	0	120	morning			
+8/3/2023	urban 	university	UP2.1	0	120	morning			
+8/3/2023	urban 	university	UP2.1	0	120	morning			
+8/3/2023	urban 	university	UP2.1	0	120	morning			
+8/3/2023	urban 	university	UP2.1	0	120	morning			
+8/3/2023	urban 	university	UP2.1	0	120	morning			
+8/3/2023	urban 	university	UP2.2	0	120	morning			
+8/3/2023	urban 	university	UP2.2	0	120	morning			
+8/3/2023	urban 	university	UP2.2	0	120	morning			
+8/3/2023	urban 	university	UP2.2	0	120	morning			
+8/3/2023	urban 	university	UP2.2	0	120	morning			
+8/3/2023	urban 	university	UP2.2	0	120	morning			
+8/3/2023	urban 	university	UP2.2	0	120	morning			
+8/3/2023	urban 	university	UP2.2	0	120	morning			
+8/3/2023	urban 	university	UP2.2	0	120	morning			
+8/3/2023	urban 	university	UP2.2	0	120	morning			
+8/3/2023	urban 	university	UP2.3	0	120	morning			
+8/3/2023	urban 	university	UP2.3	0	120	morning			
+8/3/2023	urban 	university	UP2.3	0	120	morning			
+8/3/2023	urban 	university	UP2.3	0	120	morning			
+8/3/2023	urban 	university	UP2.3	0	120	morning			
+8/3/2023	urban 	university	UP2.3	0	120	morning			
+8/3/2023	urban 	university	UP2.3	0	120	morning			
+8/3/2023	urban 	university	UP2.3	0	120	morning			
+8/3/2023	urban 	university	UP2.3	0	120	morning			
+8/3/2023	urban 	university	UP2.3	0	120	morning			
+8/3/2023	urban 	university	UP2.4	0	120	morning			
+8/3/2023	urban 	university	UP2.4	0	120	morning			
+8/3/2023	urban 	university	UP2.4	0	120	morning			
+8/3/2023	urban 	university	UP2.4	0	120	morning			
+8/3/2023	urban 	university	UP2.4	0	120	morning			
+8/3/2023	urban 	university	UP2.4	0	120	morning			
+8/3/2023	urban 	university	UP2.4	0	120	morning			
+8/3/2023	urban 	university	UP2.4	0	120	morning			
+8/3/2023	urban 	university	UP2.4	0	120	morning			
+8/3/2023	urban 	university	UP2.4	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber1	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber1	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber1	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber1	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber1	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber1	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber1	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber1	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber1	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber1	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber2	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber2	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber2	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber2	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber2	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber2	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber2	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber2	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber2	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber2	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber3	1	5	morning			
+8/15/2023	urban 	ciudad del saber	saber3	1	10	morning			
+8/15/2023	urban 	ciudad del saber	saber3	1	10	morning			
+8/15/2023	urban 	ciudad del saber	saber3	1	25	morning			
+8/15/2023	urban 	ciudad del saber	saber3	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber3	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber3	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber3	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber3	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber3	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber4	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber4	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber4	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber4	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber4	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber4	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber4	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber4	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber4	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber4	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber5	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber5	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber5	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber5	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber5	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber5	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber5	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber5	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber5	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber5	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber6	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber6	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber6	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber6	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber6	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber6	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber6	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber6	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber6	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber6	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber7	1	15	morning			
+8/15/2023	urban 	ciudad del saber	saber7	1	95	morning			
+8/15/2023	urban 	ciudad del saber	saber7	1	100	morning			
+8/15/2023	urban 	ciudad del saber	saber7	1	110	morning			
+8/15/2023	urban 	ciudad del saber	saber7	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber7	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber7	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber7	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber7	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber7	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber8	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber8	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber8	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber8	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber8	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber8	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber8	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber8	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber8	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber8	0	120	midday			
+8/15/2023	urban 	ciudad del saber	saber9	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber9	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber9	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber9	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber9	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber9	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber9	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber9	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber9	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber9	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber10	1	5	morning			
+8/15/2023	urban 	ciudad del saber	saber10	1	15	morning			
+8/15/2023	urban 	ciudad del saber	saber10	1	40	morning			
+8/15/2023	urban 	ciudad del saber	saber10	1	40	morning			
+8/15/2023	urban 	ciudad del saber	saber10	1	45	morning			
+8/15/2023	urban 	ciudad del saber	saber10	1	65	morning			
+8/15/2023	urban 	ciudad del saber	saber10	1	70	morning			
+8/15/2023	urban 	ciudad del saber	saber10	1	90	morning			
+8/15/2023	urban 	ciudad del saber	saber10	0	120	morning			
+8/15/2023	urban 	ciudad del saber	saber10	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.1	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.1	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.1	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.1	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.1	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.1	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.1	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.1	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.1	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.1	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.2	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.2	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.2	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.2	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.2	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.2	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.2	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.2	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.2	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.2	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.3	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.3	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.3	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.3	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.3	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.3	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.3	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.3	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.3	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.3	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.4	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.4	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.4	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.4	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.4	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.4	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.4	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.4	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.4	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.4	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.5	1	105	morning			
+8/18/2023	urban 	ciudad del saber	saber1.5	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.5	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.5	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.5	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.5	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.5	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.5	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.5	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.5	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.6	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.6	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.6	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.6	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.6	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.6	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.6	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.6	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.6	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.6	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.7	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.7	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.7	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.7	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.7	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.7	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.7	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.7	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.7	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.7	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.8	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.8	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.8	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.8	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.8	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.8	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.8	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.8	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.8	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.8	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.9	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.9	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.9	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.9	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.9	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.9	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.9	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.9	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.9	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.9	0	120	morning			
+8/18/2023	urban 	ciudad del saber	saber1.10	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.10	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.10	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.10	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.10	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.10	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.10	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.10	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.10	0	120	midday			
+8/18/2023	urban 	ciudad del saber	saber1.10	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.1	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.1	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.1	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.1	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.1	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.1	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.1	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.1	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.1	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.1	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.2	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.2	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.2	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.2	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.2	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.2	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.2	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.2	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.2	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.2	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.3	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.3	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.3	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.3	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.3	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.3	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.3	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.3	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.3	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.3	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.4	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.4	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.4	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.4	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.4	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.4	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.4	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.4	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.4	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.4	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.5	1	80	morning			
+8/30/2023	urban 	ciudad del saber	saber2.5	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.5	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.5	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.5	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.5	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.5	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.5	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.5	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.5	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.6	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.6	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.6	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.6	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.6	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.6	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.6	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.6	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.6	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.6	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.7	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.7	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.7	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.7	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.7	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.7	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.7	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.7	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.7	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.7	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.8	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.8	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.8	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.8	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.8	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.8	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.8	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.8	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.8	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.8	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.9	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.9	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.9	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.9	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.9	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.9	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.9	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.9	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.9	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.9	0	120	morning			
+8/30/2023	urban 	ciudad del saber	saber2.10	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.10	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.10	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.10	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.10	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.10	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.10	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.10	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.10	0	120	midday			
+8/30/2023	urban 	ciudad del saber	saber2.10	0	120	midday			
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
